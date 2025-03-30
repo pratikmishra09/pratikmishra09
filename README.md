@@ -1,29 +1,75 @@
-<h1 align="center">Hi 👋, I'm Pratik Mishra</h1>
-<h3 align="center">A Passionate Software Engineer From India</h3>
-<img align="right"alt="coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## Hi 👋, I'm Pratik Mishra
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikmishra09&label=Profile%20views&color=0e75b6&style=flat" alt="pratikmishra09" /> </p>
-
-- 🌱 I’m currently learning **Dsa**
-
-- 💬 Ask me about **python panda**
-
-- 📫 How to reach me **pk3057765@gmail.com**
-
-- ⚡ Fun fact **I think i am a little bit funny😊**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pratik mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik mishra" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pk3057765" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pk3057765" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mrpratik09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrpratik09" height="30" width="40" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=A+Passionate+Software+Engineer+From+India" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikmishra09&show_icons=true&locale=en&layout=compact" alt="pratikmishra09" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=pratikmishra09&label=Profile%20views&color=0e75b6&style=flat)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikmishra09&show_icons=true&locale=en" alt="pratikmishra09" /></p>
+## 🌟 What I'm Currently Exploring:
+- **Cloud Computing, DevOps & Modern Web Technologies**
+- **Advanced Frontend & Backend Frameworks**
+- **Optimizing Web Performance & Security Best Practices**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikmishra09&" alt="pratikmishra09" /></p>
+## 💬 Ask Me About:
+- **Software Development & Best Coding Practices**
+- **Git, GitHub, and Open Source Contributions**
+- **Frontend & Backend Development (React, Node.js, etc.)**
+- **API Development, Database Management & Cloud Services**
+- **DevOps & Deployment Strategies**
+
+## 🎯 About Me:
+- 🎓 **Pursuing B.Tech in Computer Science & Engineering (CSE)**
+- 🚀 **Passionate about crafting high-performance web applications & exploring emerging tech**
+- ⚛️ **Active open-source contributor & hackathon enthusiast**
+
+## ✨ Fun Fact:
+- **I find debugging more thrilling than coding—it’s like being a digital detective!** 🕵️‍♂️
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrpratik_108) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-mishra-491357260) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AlrxMr) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@pratikmishra9226/videos) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/jjjsjsiidkjcjcjj/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pk3057765@gmail.com)
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
+## 💪 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pratikmishra09&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=pratikmishra09&theme=chartreuse-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikmishra09&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=pratikmishra09&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
+
+### 🔽 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=pratikmishra09&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=pratikmishra09&icon=4&color=0)](https://visitcount.itsvg.in)
+
+## 💰 You can help me by Donating:
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pratiikmishra09)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
