@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Pratik Mishra
 
 <p align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=600&lines=A+Passionate+Software+Engineer+From+India" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFAA33&width=600&lines=A+Passionate+Software+Engineer+From+India" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
